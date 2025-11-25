@@ -1,0 +1,18 @@
+site_name: FamiStudio Documentation
+nav:
+- Welcome: index.md   
+- User Guide:
+  - "Installation": install.md
+  - "Basics": basics.md
+  - "Troubleshooting": troubleshooting.md
+  - "Acknowledgements": thanks.md
+- Change Log:
+  - "All Version History": changelog.md
+extra_css:
+    - css/extra.css    
+theme: 
+  name: slate
+  color_mode: dark
+plugins:
+  - search
+  - meta-descriptions
