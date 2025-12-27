@@ -89,7 +89,7 @@ At the center of the sequencer are all the patterns of the current song. Pattern
 Patterns are simply added by clicking in an empty space in the grid. 
 
 * On desktop, patterns are deleted using a double-click and they are resized by grabbing the left or right edge and resizing.
-* On mobile a double-tap opens the pattern in the appropriate editor, either the piano roll or automation track editor. To delete a pattern on mobile, you can simply press the **Delete** button from the toolbar (big **X** icon) to delete any selected pattern(s). To help resizing on small screens, the mobile version will display big colorful resize handles for the selected pattern(s), allowing you to resize it from the left or right side.
+* On mobile a double-tap opens the pattern in the appropriate editor, either the piano roll or automation track editor. To delete a pattern on mobile, you can simply press the **Delete** button from the toolbar (big **X** icon) to delete any selected pattern(s). To help resizing on small screens, the mobile version will display big colored resize handles for the selected pattern(s), allowing you to resize it from the left or right side.
 
 ## Selecting patterns
 
@@ -114,7 +114,7 @@ Another way to tell if a pattern is an instance of another is simply to select i
 
 To create an instance of an existing pattern, simply selected it and drag from the little **Colored Chain-Link Button** that appears at the bottom left and release where you want to create the instance. Note that trying to create an instance on a different track will force a copy.
 
-To create a completely separate copy of a pattern, a copy that will retain no connection to the original, simply drag from the **Colored Paperstack Icon** that appears at the bottom left and release it where you want to create the copy.
+To create a completely separate copy of a pattern, a copy that will retain no connection to the original, simply drag from the **Colored Paperstack Icon** that appears and release it where you want to create the copy.
 
 > TODO : A mobile/desktop GIF here would be nice.
 
