@@ -200,4 +200,6 @@ Some of these demo songs require external SoundFonts, please visit [this page](s
 Finally, massive thanks to the translators who painstakingly translated the hundreds of strings of the app:
 
 - Russian : fluffykn1ght
-
+- French : Lancel0t
+- Chinese : FREirc
+- Korean : Alina

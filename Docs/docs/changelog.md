@@ -13,10 +13,10 @@ Changes/Fixes:
 * Fixed crash right-clicking (or long pressing on mobile) past the end of the song on the timeline
 * Fixed crash trying to bind "Enter" as a keyboard shortcut
 * Fixed crash unloading projects with missing soundfont presets
-* Fixed crash when exporting to a full disks, read-only folders, etc.
+* Fixed crash when exporting to a full disks, read-only folders, etc. on Windows
 * Fixed crash playing after deleting an instrument
 * Fixed crash when changing channel instrument when automation tracks are present
-* Fixed note parameter curves disapearing when saving in some situations
+* Fixed note parameter curves disappearing when saving in some situations
 * Fixed project explorer not refreshing the channel list when deleting from sequencer, could lead to crash
 * Fixed wavetable loop/release points not saving
 * Fixed missing note sample colors on C notes when on top of viewport
@@ -30,7 +30,7 @@ Changes/Fixes:
 * Changed the min/max frequencies for the EQ so that all frequencies are accessible
 * Allowed Project Explorer to be almost 40% smaller.
 * Changed default follow mode position to 50%
-* Added a shake to the sound font notifiction so it draws more attention
+* Added a shake to the sound font notification so it draws more attention
 * Added French and Chinese translations (thanks Lancel0t and FREirc!)
 
 Breaking/Behavior changes:
