@@ -202,4 +202,3 @@ Finally, massive thanks to the translators who painstakingly translated the hund
 - Russian : fluffykn1ght
 - French : Lancel0t
 - Chinese : FREirc
-- Korean : Alina

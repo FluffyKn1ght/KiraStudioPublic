@@ -2,6 +2,29 @@
 
 Version history / release notes for each release. 
 
+## Version 1.0.2 (Hotfix)
+
+Changes/Fixes:
+
+* Fixed crash trying to play notes without instruments (gray)
+* Fixed crash playing audio after undo/redo a set/clear loop point
+* Fixed crash using soundfonts with zones lacking sample IDs
+* Fixed crash pasting between projects
+* Fixed more crashes when trying to save on a full disk, read-only folders, etc.
+* Fixed a few crashes and issues on tablet when the bottom panel becomes too small with certain scalings
+* Fixed files not truncating on Android, meaning they would only grow in size, never shrink
+* Fixed notes in instanced patterns loosing their selection in the piano roll when moving them
+* Added a few error messages when failing to open project files (new version, corrupted, etc.)
+* Added list of already loaded soundfonts to avoid having to having to constantly open from storage
+* Added context menu to solo/mute channels
+* Added support for drag and dropping samples in the window to load them (Desktop-only)
+* Added keyboard shortcuts to control snapping in Piano Roll and Automation Track editor (Alt+S toggles snap, Alt+1/2/3/4/6/8 changes grid)
+* Added a single decimal to generic square duty cycle so we can do 12.5% for example
+* Added context menu to type in note parameter values : select notes, right-click in note param editor or long press on the scale on mobile
+* Added slide notes in ghost notes
+* Added ability to use per-note curves on all duty cycle parameters
+* Added Chinese translation for real this time, was missing on Windows in 1.0.1 (Thanks FREirc!)
+
 ## Version 1.0.1 (Hotfix)
 
 Changes/Fixes:
